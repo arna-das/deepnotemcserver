@@ -5,5 +5,5 @@ wget https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/4.9.2/P
 wget https://hangarcdn.papermc.io/plugins/ViaVersion/ViaBackwards/versions/4.9.1/PAPER/ViaBackwards-4.9.1.jar
 mv playit-minecraft-plugin.jar plugins
 mv ViaBackwards-4.9.1.jar plugins
-mv ViaVersion-4.9.2.jar
+mv ViaVersion-4.9.2.jar plugins
 bash startthesrv.sh
